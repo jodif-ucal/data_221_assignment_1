@@ -1,1 +1,1 @@
-ÿþ
+Question 1: Multiplies numbers together, increasing the multiplying number by 1 until a pre defined threshold is reached, at which point the multiplying number responsible and the result is printed and the program stopped.
