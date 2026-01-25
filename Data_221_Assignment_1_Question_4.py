@@ -1,6 +1,6 @@
 from random import random
 
-values = [random() for i in range(20)]
+values = [random() for i in range(20)] #Create 20 random numbers and put them in the list
 x = random()
 
 sorted_values = sorted(values)
